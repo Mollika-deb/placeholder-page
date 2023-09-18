@@ -13,7 +13,7 @@ const Banner = () => {
         <h1 className="absolute inset-0 lg:top-1/3 top-1/4 text-center text-white lg:text-6xl md:4xl text-3xl font-semibold ">
           Comming Soon -{" "}
           <span className="text-blue-600 text-bold">The Educator</span> <br />{" "}
-          <span className="text-3xl md:2xl hidden lg:block md:block mt-3">
+          <span className="text-3xl md:2xl hidden lg:block md:block lg:mt-3">
             {" "}
             Where Excellence Awaits!
           </span>
